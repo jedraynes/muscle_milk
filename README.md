@@ -8,10 +8,10 @@ The code extracts the "muscle code" (as I've dubbed it) which is a short letter 
 The final deliverable is an excel file with a column for each variable listed in the preceding paragraph. Muscles that are in multiple regions are listed multiple times with the different region name, hence why the deliverable length is longer than the initial alphabetical master length.
 
 ### Required Packages
-  `import sys
-  import re
-  import requests
-  import pprint (this was used iteratively to view the output but wasn't used in the final code)
-  import pandas as pd
-  from bs4 import BeautifulSoup
+  >import sys 
+  >import re  
+  >import requests  
+  >import pprint (this was used iteratively to view the output but wasn't used in the final code) 
+  >import pandas as pd  
+  >from bs4 import BeautifulSoup  
   
