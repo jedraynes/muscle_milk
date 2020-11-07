@@ -10,12 +10,12 @@ Packages used
 
 >import sys
 
->import re
+import re
 
->import requests
+import requests
 
->import pprint (this was used iteratively to view the output but wasn't used in the final code)
+import pprint (this was used iteratively to view the output but wasn't used in the final code)
 
->import pandas as pd
+import pandas as pd
 
->from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
