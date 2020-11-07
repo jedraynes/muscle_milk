@@ -9,8 +9,13 @@ The final deliverable is an excel file with a column for each variable listed in
 Packages used
 
 >import sys
+
 >import re
+
 >import requests
+
 >import pprint (this was used iteratively to view the output but wasn't used in the final code)
+
 >import pandas as pd
+
 >from bs4 import BeautifulSoup
